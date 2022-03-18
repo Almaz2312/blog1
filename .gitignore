@@ -109,6 +109,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+blog_env/
 
 # Spyder project settings
 .spyderproject
@@ -119,6 +120,8 @@ venv.bak/
 
 # mkdocs documentation
 /site
+media/
+images_blog/
 
 # mypy
 .mypy_cache/
